@@ -1,7 +1,7 @@
 # AppleSignIn
 ## Ionic  Cordova 
 
-ionic cordova plugin add cordova-plugin-sign-in-with-apple
+ionic cordova plugin add cordova-plugin-sign-in-with-apple  
 npm install @ionic-native/sign-in-with-apple
 
 > WAGNING: Имя пользователя будет доступно только при первом обращении
