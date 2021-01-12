@@ -9,10 +9,10 @@ with open('cart_file.p8', 'r') as cert_file:
 ACCESS_TOKEN_URL = 'https://appleid.apple.com/auth/token'
 
 apple_config = {
-    "TeamID": "2YU52K5E4A",  # Apple dev team ID
-    "ClientID": "com.capital.investmate.test",  # App bundle ID
+    "TeamID": "***",  # Apple dev team ID
+    "ClientID": "com.test.app",  # App bundle ID
     "RedirectURI": "",  # Not required
-    "KeyID": "FJF7JW8WJY",  # Private Key ID
+    "KeyID": "***",  # Private Key ID
     "AESCert": PRIVATE_KEY  # Private Key
 }
 
